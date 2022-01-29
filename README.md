@@ -20,7 +20,7 @@ The instructions for the correct execution of the program are the following:
 
 
 
-5.- Once time open plis Click on the sln (apiRestManuel.sln)
+5.- Once time open double plis Click on the sln (apiRestManuel.sln)
 
 
 
